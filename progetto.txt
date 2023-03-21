@@ -1,0 +1,8 @@
+Abbiamo l'aggiornamento ogni 5 step e quindi dobbiamo aggiornare ogni 5
+
+- if 0 is infinite (dont consider)
+- lidar : each meas ha s degree -> we have to convert spherical coord in cartesian coord 
+- once we have a point of reAL obj we want to apply a regression to estimate obj
+- so 2 steps : KF & REGRESSION
+
+- per il 27 vuole almeno la parte della regression inizializzata
